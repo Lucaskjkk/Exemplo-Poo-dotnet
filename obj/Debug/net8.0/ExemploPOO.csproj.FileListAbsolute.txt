@@ -12,3 +12,4 @@ C:\ProjetoCsharp\ExemploPOO\obj\Debug\net8.0\refint\ExemploPOO.dll
 C:\ProjetoCsharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.pdb
 C:\ProjetoCsharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.genruntimeconfig.cache
 C:\ProjetoCsharp\ExemploPOO\obj\Debug\net8.0\ref\ExemploPOO.dll
+C:\ProjetoCsharp\ExemploPOO\obj\Debug\net8.0\ExemploPOO.sourcelink.json
